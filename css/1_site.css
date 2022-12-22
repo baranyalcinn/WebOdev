@@ -1,0 +1,19 @@
+#list1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+    width: 100%;  
+  }
+
+  #list1 li{
+      float : left;
+      text-align: center;
+      color:white; 
+  }
+
+  #allList a:hover{
+    text-decoration: none;
+    color:white;
+}
