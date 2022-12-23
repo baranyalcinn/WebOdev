@@ -73,7 +73,7 @@ tr:nth-child(even) {
 
 
 
-.mobilya {
+.araclar {
 	margin: 50px 20px 50px 50px;
 	
 }
@@ -81,8 +81,8 @@ tr:nth-child(even) {
 #M1,#M2{
 	max-height: 100%;
 	max-width: 100%;
-	color: red;
-	padding:100px 0px 100px 450px;
+	color: black;
+	padding:50px 0px 100px 480px;
 
 }
 
